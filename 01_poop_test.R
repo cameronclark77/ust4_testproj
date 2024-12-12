@@ -25,5 +25,5 @@ library(lubridate)
 }
 ## File paths ------------------------------------------------------------------
 
-input_folder  <- "./folder location"
+input_folder  <- "egg fart"
 output_folder <- "./folder location"
